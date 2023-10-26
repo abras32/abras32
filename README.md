@@ -1,6 +1,6 @@
 ### Hey everyone, my name is Shira 
 
-## I am a Student, Dreamer, and 1st  Developer!
+## I am a Student, Dreamer, and 1st Time  Developer!
 - I am currently finishing my Bachelor's degree in Web Development
 - I am always learning about web design and development.
 - After I graduate I will start my internship for a web company this summer.
