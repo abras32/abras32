@@ -34,4 +34,7 @@
 <img align="left" alt="GitBash" width="27px" src="gitbash-icon.png"/>
 
 <img align="left" alt="GitBash" width="27px" src="github-icon.png"/>
+
+### Skill Level
+
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitHub&value=100&design=candy&fill=ff69b4">
