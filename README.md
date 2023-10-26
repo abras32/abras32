@@ -1,5 +1,5 @@
 ### Hey Everyone 👋 
-# My Name Is <img src="https://readme-components.vercel.app/api?component=text&text=%20Shira&fill=linear-gradient%28to%20top%fff%20%99ffff%200%25%fff%20%2399ffff%20100%25%29%3B">
+# My Name Is <img src="https://readme-components.vercel.app/api?component=text&text=%20Shira&fill=99ffff">
 
 ## I am a Student, Dreamer, and 1st Time  Developer!
 <img align="left" alt="degree" width="27px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
