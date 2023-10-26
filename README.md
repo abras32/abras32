@@ -33,4 +33,5 @@
 <img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/>
 <img align="left" alt="GitBash" width="27px" src="gitbash-icon.png"/>
 
+<img align="left" alt="GitBash" width="27px" src="github-icon.png"/>
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitHub&value=100&design=candy&fill=ff69b4">
