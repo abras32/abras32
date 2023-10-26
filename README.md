@@ -12,14 +12,15 @@
 <img align="left" alt="job" width="27px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
 <img align="left" alt="volly" width="27px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player!
-<br />
 
+<br />
+<br />
 ### Reach Out To Me:
 
 <img align="left" alt="Phone" width="27px" src="phone-icon.png"/>
 <img align="left" alt="Email" width="27px" src="email-icon.jpg"/>
 <br />
-
+<br />
 ### Code Languages and Tools:
 
 <img align="left" alt="HTML5" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/>
