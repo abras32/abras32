@@ -8,7 +8,7 @@
 <img align="left" alt="intern" width="27px" src="intern-icon.png"/> - After I graduate I will start my internship for a web company this summer.
 
 
-<img align="left" alt="job" width="27px" height="10px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
+<img align="left" alt="job" width="27px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
 <img align="left" alt="volly" width="27px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player!
 <br />
