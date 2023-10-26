@@ -1,11 +1,11 @@
 ### Hey Everyone, My Name Is Shira!
 
 ## I am a Student, Dreamer, and 1st Time  Developer!
-<img align="left" alt="degree" width="27px" src="degree-icon.png"/> I am currently finishing my Bachelor's degree in Web Development
-<img align="left" alt="learn" width="27px" src="learn-icon.jpg"/> I am always learning about web design and development.
-<img align="left" alt="intern" width="27px" src="intern-icon.jpg"/> After I graduate I will start my internship for a web company this summer.
-<img align="left" alt="job" width="27px" src="job-icon.png"/> 2024 Goals: Get hired as a full time front-end developer.
-<img align="left" alt="volly" width="27px" src="volly-icon.png"/> Cool facts: I am a beach volleyball player
+<img align="left" alt="degree" width="27px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development
+<img align="left" alt="learn" width="27px" src="learn-icon.jpg"/> - I am always learning about web design and development.
+<img align="left" alt="intern" width="27px" src="intern-icon.jpg"/> - After I graduate I will start my internship for a web company this summer.
+<img align="left" alt="job" width="27px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
+<img align="left" alt="volly" width="27px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player
 
 ### Reach Out To Me:
 
