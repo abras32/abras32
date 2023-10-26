@@ -1,7 +1,7 @@
 ### Hey Everyone, My Name Is Shira!
 
 ## I am a Student, Dreamer, and 1st Time  Developer!
-- I am currently finishing my Bachelor's degree in Web Development
+<img align="left" alt="Phone" width="27px" src="phone-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development
 - I am always learning about web design and development.
 - After I graduate I will start my internship for a web company this summer.
 - 2024 Goals: Get hired as a full time front-end developer.
