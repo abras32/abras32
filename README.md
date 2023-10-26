@@ -48,7 +48,7 @@
 
 <img align="left" alt="SQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL&value=50&design=candy&fill=00ffff">
 
-<img align="left" alt="MySQL" width="27px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=MySQL&value=70&design=candy&fill=66cccc">
+<img align="left" alt="MySQL" width="27px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=MySQL&value=70&design=candy&fill=66cccc">
 
 <img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=VS-Code&value=85&design=candy&fill=66ff66">
 
