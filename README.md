@@ -1,4 +1,4 @@
-### Hey everyone, my name is Shira 
+### Hey Everyone, My Name Is Shira!
 
 ## I am a Student, Dreamer, and 1st Time  Developer!
 - I am currently finishing my Bachelor's degree in Web Development
