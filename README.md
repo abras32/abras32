@@ -18,8 +18,6 @@
 
 ### Reach Out To Me:
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&img src=phone-icon.png&animation=spin&svgfill=15d8fe">
-
 <img align="left" alt="Phone" width="27px" src="phone-icon.png"/>
 <img align="left" alt="Email" width="27px" src="email-icon.jpg"/>
 <br />
