@@ -18,6 +18,7 @@
 
 <img align="left" alt="Phone" width="27px" src="phone-icon.png"/>
 <img align="left" alt="Email" width="27px" src="email-icon.jpg"/>
+
 <br />
 
 ### Code Languages and Tools:
