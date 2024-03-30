@@ -45,7 +45,7 @@
 
 <img align="right" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=3399ff">
 
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL&value=50&design=candy&fill=00ffff">
+<img align="right" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL&value=50&design=candy&fill=00ffff">
 
 </div>
 
