@@ -17,7 +17,7 @@
 <br />
 <hr>
 
-### My Stats and Code Languages:
+### <div align="center"> My Stats and Code Languages:</div>
 
 <hr>
 <br>
