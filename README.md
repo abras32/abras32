@@ -1,6 +1,4 @@
-# <div align="center">
-
-<img src="Welcome.svg"></div>👋
+# Hey Everyone 👋
 
 ### My Name Is <img src="https://readme-components.vercel.app/api?component=text&text=%20Shira&fill=linear-gradient%28to%20top%2C%20%99ffff%200%25%2C%20%99ffff%20100%25%29%3B">
 
