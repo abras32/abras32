@@ -22,7 +22,7 @@
 <hr>
 <br>
 
-<img align="left" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true"/>
+<img align="left" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical"/>
 
 ### Code Languages and Tools:
 
