@@ -17,7 +17,7 @@
 <br />
 <hr>
 
-### Reach Out To Me:
+### My Stats and Code Languages:
 
 <hr>
 <br>
