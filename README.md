@@ -35,10 +35,13 @@
     <img align="left" alt="GitBash" width="50px" src="github-icon.png"/>
 </div>
 
-<br/>
-<br/>
-
+<br>
+<br>
+<br>
+<br>
 ### <div align="center">Skill Level</div>
+
+<br>
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=100&design=candy&fill=ff66ff">
 
