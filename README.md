@@ -22,7 +22,7 @@
 <hr>
 <br>
 
-<img align="left" width="50px" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical&card_width=50"/>
+<img align="left" width="100px" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical&"/>
 
 ### <div align="center">Code Languages and Tools:</div>
 
