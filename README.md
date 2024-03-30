@@ -34,11 +34,12 @@
     <img align="left" alt="GitBash" width="50px" src="gitbash-icon.png"/>
     <img align="left" alt="GitBash" width="50px" src="github-icon.png"/>
 </div>
+
 <br>
 <br>
 <br>
 
-# <div align="center" margin-top="5%">Skill Level</div>
+# <div align="center" margin-top="10px">Skill Level</div>
 
 <br>
 
