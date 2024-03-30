@@ -4,15 +4,15 @@
 
 ## <div align="center">I am a Student, Dreamer, and 1st Time Developer!</div>
 
-<img align="left" alt="degree" width="31px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
+<img align="left" alt="degree" width="40px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
 
-<img align="left" alt="learn" width="31px" src="learn-icon.jpg"/> - I am always learning about web design and development.
+<img align="left" alt="learn" width="40px" src="learn-icon.jpg"/> - I am always learning about web design and development.
 
-<img align="left" alt="intern" width="31px" src="intern-icon.png"/> - After I graduate I will start my internship for a web company this summer.
+<img align="left" alt="intern" width="40px" src="intern-icon.png"/> - After I graduate I will start my internship for a web company this summer.
 
-<img align="left" alt="job" width="31px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
+<img align="left" alt="job" width="40px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
-<img align="left" alt="volly" width="31px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player!
+<img align="left" alt="volly" width="40px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player!
 
 <br />
 <hr>
@@ -25,14 +25,14 @@
 <img align="left" width="400px" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical"/>
 
 <div align="right">
-    <img align="left" alt="HTML5" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/>
-    <img align="left" alt="CSS3" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?"/>
-    <img align="left" alt="JavaScript" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-    <img align="left" alt="SQL" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/>
-    <img align="left" alt="MySQL" width="31px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?"/>
-    <img align="left" alt="Visual Studio Code" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/>
-    <img align="left" alt="GitBash" width="31px" src="gitbash-icon.png"/>
-    <img align="left" alt="GitBash" width="31px" src="github-icon.png"/>
+    <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/>
+    <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?"/>
+    <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+    <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/>
+    <img align="left" alt="MySQL" width="40px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?"/>
+    <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/>
+    <img align="left" alt="GitBash" width="40px" src="gitbash-icon.png"/>
+    <img align="left" alt="GitBash" width="40px" src="github-icon.png"/>
 </div>
 
 <br>
@@ -40,18 +40,18 @@
 
 ### <div align="center">Skill Level</div>
 
-<img align="left" alt="HTML5" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=100&design=candy&fill=ff66ff">
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=100&design=candy&fill=ff66ff">
 
-<img align="left" alt="CSS3" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS3&value=100&design=candy&fill=9966ff">
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS3&value=100&design=candy&fill=9966ff">
 
-<img align="left" alt="JavaScript" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=3399ff">
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=3399ff">
 
-<img align="left" alt="SQL" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL&value=50&design=candy&fill=00ffff">
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL&value=50&design=candy&fill=00ffff">
 
 <img align="left" alt="MySQL" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=MySQL&value=70&design=candy&fill=66cccc">
 
-<img align="left" alt="Visual Studio Code" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=VS-Code&value=85&design=candy&fill=66ff66">
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=VS-Code&value=85&design=candy&fill=66ff66">
 
-<img align="left" alt="GitBash" width="31px" src="gitbash-icon.png"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitBash&value=100&design=candy&fill=ffff66">
+<img align="left" alt="GitBash" width="40px" src="gitbash-icon.png"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitBash&value=100&design=candy&fill=ffff66">
 
-<img align="left" alt="GitBash" width="31px" src="github-icon.png"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitHub&value=100&design=candy&fill=ff9999">
+<img align="left" alt="GitBash" width="40px" src="github-icon.png"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitHub&value=100&design=candy&fill=ff9999">
