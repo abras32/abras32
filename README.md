@@ -15,14 +15,12 @@
 <img align="left" alt="volly" width="27px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player!
 
 <br />
-<br />
+<hr>
 
 ### Reach Out To Me:
 
-<img align="left" alt="Phone" width="27px" src="phone-icon.png"/>
-<img align="left" alt="Email" width="27px" src="email-icon.jpg"/>
-<br />
-<br />
+<hr>
+<br>
 
 <img align="left" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true"/>
 
