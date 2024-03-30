@@ -22,11 +22,12 @@
 <hr>
 <br>
 
-<img align="left" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical&card_width=100"/>
+<img align="left" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical&card_width=50"/>
 
 <img align="right" alt="Shira's Used Code Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=abras32&layout=compact&langs_count=8&card_width=100&theme=tokyonight" />
 
 <br>
+<hr>
 
 ### Code Languages and Tools:
 
