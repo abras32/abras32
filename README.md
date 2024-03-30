@@ -1,13 +1,16 @@
-# Hey Everyone 👋 
+# <div align="center">
+
+<img src="Welcome.svg">👋
+
 ### My Name Is <img src="https://readme-components.vercel.app/api?component=text&text=%20Shira&fill=linear-gradient%28to%20top%2C%20%99ffff%200%25%2C%20%99ffff%20100%25%29%3B">
 
-## I am a Student, Dreamer, and 1st Time  Developer!
+## I am a Student, Dreamer, and 1st Time Developer!
+
 <img align="left" alt="degree" width="27px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
 
 <img align="left" alt="learn" width="27px" src="learn-icon.jpg"/> - I am always learning about web design and development.
 
 <img align="left" alt="intern" width="27px" src="intern-icon.png"/> - After I graduate I will start my internship for a web company this summer.
-
 
 <img align="left" alt="job" width="27px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
