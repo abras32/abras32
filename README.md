@@ -1,6 +1,6 @@
-# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=3849F7B6&center=true&random=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg) 👋
+### 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=3849F7B6&center=true&random=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg) 👋
 
-### <div align="center">My Name Is <img src="https://readme-components.vercel.app/api?component=text&text=%20Shira&fill=linear-gradient%28to%20top%2C%20%99ffff%200%25%2C%20%99ffff%20100%25%29%3B"></div>
+## <div align="center">My Name Is <img src="https://readme-components.vercel.app/api?component=text&text=%20Shira&fill=linear-gradient%28to%20top%2C%20%99ffff%200%25%2C%20%99ffff%20100%25%29%3B"></div>
 
 ## <div align="center">I am a Student, Dreamer, and 1st Time Developer!</div>
 
@@ -22,7 +22,7 @@
 <hr>
 <br>
 
-<img flex="left" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical&card_width=50px"/>
+<img align="left" width="50px" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical&card_width=50"/>
 
 ### <div align="center">Code Languages and Tools:</div>
 
