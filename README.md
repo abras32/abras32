@@ -2,7 +2,7 @@
 
 ### My Name Is <img src="https://readme-components.vercel.app/api?component=text&text=%20Shira&fill=linear-gradient%28to%20top%2C%20%99ffff%200%25%2C%20%99ffff%20100%25%29%3B">
 
-## I am a Student, Dreamer, and 1st Time Developer!
+## <div align="center">I am a Student, Dreamer, and 1st Time Developer!</div>
 
 <img align="left" alt="degree" width="27px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
 
@@ -24,22 +24,24 @@
 
 <img flex="left" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical&card_width=50"/>
 
-<img flex="right" alt="Shira's Used Code Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=abras32&layout=compact&langs_count=8&card_width=100&theme=tokyonight" />
+<img flex="left" alt="Shira's Used Code Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=abras32&layout=compact&langs_count=8&card_width=100&theme=tokyonight" />
 
 <br>
 <hr>
 
 ### Code Languages and Tools:
 
-<img align="left" alt="HTML5" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/>
-<img align="left" alt="CSS3" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?"/>
-<img align="left" alt="JavaScript" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="SQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/>
-<img align="left" alt="MySQL" width="27px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?"/>
-<img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/>
-<img align="left" alt="GitBash" width="27px" src="gitbash-icon.png"/>
+<div align="center">
+    <img align="left" alt="HTML5" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/>
+    <img align="left" alt="CSS3" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?"/>
+    <img align="left" alt="JavaScript" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+    <img align="left" alt="SQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?"/>
+    <img align="left" alt="MySQL" width="27px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?"/>
+    <img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/>
+    <img align="left" alt="GitBash" width="27px" src="gitbash-icon.png"/>
+    <img align="left" alt="GitBash" width="27px" src="github-icon.png"/>
 
-<img align="left" alt="GitBash" width="27px" src="github-icon.png"/>
+</div>
 
 <br />
 <br />
