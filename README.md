@@ -24,14 +24,9 @@
 
 <img flex="left" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical&card_width=50px"/>
 
-<img flex="left" alt="Shira's Used Code Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=abras32&layout=compact&langs_count=8&card_width=100&theme=tokyonight" />
+### <div align="center">Code Languages and Tools:</div>
 
-<br>
-<hr>
-
-### Code Languages and Tools:
-
-<div align="center">
+<div align="right">
     <img align="left" alt="HTML5" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/>
     <img align="left" alt="CSS3" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?"/>
     <img align="left" alt="JavaScript" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -40,9 +35,7 @@
     <img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?"/>
     <img align="left" alt="GitBash" width="27px" src="gitbash-icon.png"/>
     <img align="left" alt="GitBash" width="27px" src="github-icon.png"/>
-
 </div>
-
 <br />
 <br />
 
