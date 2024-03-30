@@ -40,8 +40,9 @@
 <br>
 <hr>
 
-<div >
-<div align="center">Skill Level</div>
+<div>
+
+### <div align="center">Skill Level</div>
 
 <hr>
 <br>
