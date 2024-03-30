@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=3849F7B6&center=true&random=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg) 👋
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=3849F7B6&center=true&random=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg) 👋
 
 ### My Name Is <img src="https://readme-components.vercel.app/api?component=text&text=%20Shira&fill=linear-gradient%28to%20top%2C%20%99ffff%200%25%2C%20%99ffff%20100%25%29%3B">
 
