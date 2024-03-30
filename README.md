@@ -22,7 +22,7 @@
 <hr>
 <br>
 
-<img align="left" width="450px" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" margin="0" width="450px" alt="Shira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abras32&show_icons=true&hide_border=true&theme=radical"/>
 
 <div align="right">
     <img align="center" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/>
@@ -36,7 +36,9 @@
     <br>
 </div>
 <br>
-<div align="center">Skill Level</div>
+
+<div >
+<div align="center" margin="0">Skill Level</div>
 
 <div align="right">
 <img align="right" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=100&design=candy&fill=ff66ff">
@@ -59,4 +61,5 @@
 
 <img align="left" alt="GitBash" width="50px" src="github-icon.png"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitHub&value=100&design=candy&fill=ff9999">
 
+</div>
 </div>
