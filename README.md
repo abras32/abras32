@@ -14,7 +14,7 @@
 
 <img align="left" alt="volly" width="35px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player!
 
-<br>
+<br />
 <hr>
 
 ### <div align="center"> My Stats and Code Languages:</div>
@@ -36,11 +36,17 @@
     <br>
 </div>
 
-<div>
+<br>
+<hr>
+
+<div >
 <div align="center">Skill Level</div>
 
-<div display="flex" align-items="right">
-<img display="flex" align-items="right" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=100&design=candy&fill=ff66ff">
+<hr>
+<br>
+
+<div align="right">
+<img align="right" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=100&design=candy&fill=ff66ff">
 
 <img align="right" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS3&value=100&design=candy&fill=9966ff">
 
@@ -50,7 +56,7 @@
 
 </div>
 
-<div display="flex"  align-items="left">
+<div align="left">
 
 <img align="left" alt="MySQL" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?"/><img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=MySQL&value=70&design=candy&fill=66cccc">
 
