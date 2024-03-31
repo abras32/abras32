@@ -17,12 +17,12 @@
 <br />
 <hr>
 
-### <div align="center"> My Stats and Code Languages:</div>
+### <div align="center"> My Code Cycle and Code Languages:</div>
 
 <hr>
 <br>
 
-<div align="left"> Whenever I first start coding
+<div>
     <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="15%" alt="Broken system!"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="15%" alt="It's working!"/>
