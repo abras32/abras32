@@ -58,7 +58,7 @@
 <div style="display: flex; justify-content: space-between; align-items:left;">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=100&design=candy&fill=ff66ff">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS3&value=100&design=candy&fill=9966ff">
-    <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=70&design=candy&fill=3399ff">
+    <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=70&design=candy&fill=ff0000">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL&value=50&design=candy&fill=00ffff">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=MySQL&value=70&design=candy&fill=0000ff">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=VS-Code&value=100&design=candy&fill=66ff66">
