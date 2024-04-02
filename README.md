@@ -23,11 +23,11 @@
 <br>
 
 <div>
-    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="15%" alt="Broken system!"/>
+    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="15%" alt="First time web stuff!"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="15%" alt="It's working!"/>
+    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="15%" alt="It's sorta working."/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="15%" alt="It's working but you don't know how!"/>
+    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="15%" alt="It's working! But I don't know how!"/>
     <br>
 </div>
 
@@ -64,5 +64,6 @@
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=VS-Code&value=100&design=candy&fill=66ff66">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitBash&value=100&design=candy&fill=ffff66">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitHub&value=100&design=candy&fill=ff9999">
-    <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=ReactJs&value=50&design=candy&fill=ff0099">
+    <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=WordPress&value=90&design=candy&fill=ff6633">
+
 </div>
