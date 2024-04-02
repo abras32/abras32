@@ -60,7 +60,7 @@
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS3&value=100&design=candy&fill=9966ff">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=70&design=candy&fill=3399ff">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL&value=50&design=candy&fill=00ffff">
-    <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=MySQL&value=70&design=candy&fill=66cccc">
+    <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=MySQL&value=70&design=candy&fill=0000ff">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=VS-Code&value=100&design=candy&fill=66ff66">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitBash&value=100&design=candy&fill=ffff66">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=GitHub&value=100&design=candy&fill=ff9999">
