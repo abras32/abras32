@@ -8,7 +8,7 @@
 
 <img align="left" alt="learn" width="55px" src="work.gif"/> - I am always learning about web design and development.
 
-<img align="left" alt="intern" width="55px" src="job.gif"/> - After I graduate I will start my internship for a web company this summer.
+<img align="left" alt="intern" width="65px" src="job.gif"/> - After I graduate I will start my internship for a web company this summer.
 
 <img align="left" alt="job" width="50px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
