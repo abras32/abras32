@@ -55,7 +55,7 @@
 <hr>
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items:left;">
+<div style="display: flex; justify-content: space-between; align-items:center;">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=100&design=candy&fill=ff66ff">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS3&value=100&design=candy&fill=9966ff">
     <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=70&design=candy&fill=ff0000">
