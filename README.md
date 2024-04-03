@@ -13,14 +13,8 @@
 <img align="left" alt="job" width="35px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
 <img align="left" alt="volly" width="35px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player!
-
-<div align="center" width="50">
-
-<img src="coolSign.gif?raw=true" alt="I LOVE AND I PLAY BEACH VOLLEYBALL" width="70%"/> <br>
-
-</div>
-
 <br />
+
 <hr>
 
 ### <div align="center"> My Code Cycle and Code Languages:</div>
