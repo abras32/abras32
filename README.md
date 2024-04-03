@@ -35,7 +35,7 @@
     <img align="center" alt="HTML5" width="50px" src="html.gif"/>
     <img align="center" alt="CSS3" width="50px" src="css.gif"/>
     <img align="center" alt="JavaScript" width="50px" src="js.gif"/>
-    <img align="center" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82400fe8e4017d3494d/topics/sql/sql.png?"/>
+    <img align="center" alt="SQL" width="50px" src="<iframe https://giphy.com/embed/vISmwpBJUNYzukTnVx> width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vISmwpBJUNYzukTnVx">via GIPHY</a></p>"/>
     <img align="center" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82400fe8e4017d3494d/topics/mysql/mysql.png?"/>
     <img align="center" alt="Visual Studio Code" width="50px" src="vs.gif"/>
     <img align="center" alt="GitBash" width="50px" src="git.gif"/>
