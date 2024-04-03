@@ -4,11 +4,11 @@
 
 ## <div align="center">I am a Student, Dreamer, and 1st Time Developer!</div>
 
-<img align="left" alt="degree" width="50px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
+<img align="left" alt="degree" width="50px" src="busy.gif"/> - I am currently finishing my Bachelor's degree in Web Development.
 
 <img align="left" alt="learn" width="55px" src="work.gif"/> - I am always learning about web design and development.
 
-<img align="left" alt="intern" width="50px" src="job.gif"/> - After I graduate I will start my internship for a web company this summer.
+<img align="left" alt="intern" width="55px" src="job.gif"/> - After I graduate I will start my internship for a web company this summer.
 
 <img align="left" alt="job" width="50px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
@@ -32,15 +32,15 @@
 </div>
 
 <div>
-    <img align="center" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82400fe8e4017d3494d/topics/html/html.png?"/>
-    <img align="center" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82400fe8e4017d3494d/topics/css/css.png?"/>
-    <img align="center" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82400fe8e4017d3494d/topics/javascript/javascript.png"/>
+    <img align="center" alt="HTML5" width="50px" src="html.gif"/>
+    <img align="center" alt="CSS3" width="50px" src="css.gif"/>
+    <img align="center" alt="JavaScript" width="50px" src="js.gif"/>
     <img align="center" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82400fe8e4017d3494d/topics/sql/sql.png?"/>
     <img align="center" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82400fe8e4017d3494d/topics/mysql/mysql.png?"/>
-    <img align="center" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82400fe8e4017d3494d/topics/visual-studio-code/visual-studio-code.png?"/>
-    <img align="center" alt="GitBash" width="50px" src="gitbash-icon.png"/>
-    <img align="center" alt="GitHub" width="50px" src="github-icon.png"/>
-    <img align="center" alt="GitBash" width="55px" src="Reactjs-icon.png"/>
+    <img align="center" alt="Visual Studio Code" width="50px" src="vs.gif"/>
+    <img align="center" alt="GitBash" width="50px" src="git.gif"/>
+    <img align="center" alt="GitHub" width="50px" src="github.gif"/>
+    <img align="center" alt="GitBash" width="55px" src="react.gif"/>
     <br>
 </div>
 <br>
