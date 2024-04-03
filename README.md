@@ -4,15 +4,15 @@
 
 ## <div align="center">I am a Student, Dreamer, and 1st Time Developer!</div>
 
-<img align="left" alt="degree" width="40px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
+<img align="left" alt="degree" width="50px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
 
-<img align="left" alt="learn" width="40px" src="work.gif"/> - I am always learning about web design and development.
+<img align="left" alt="learn" width="50px" src="work.gif"/> - I am always learning about web design and development.
 
-<img align="left" alt="intern" width="40px" src="intern-icon.png"/> - After I graduate I will start my internship for a web company this summer.
+<img align="left" alt="intern" width="50px" src="intern-icon.png"/> - After I graduate I will start my internship for a web company this summer.
 
-<img align="left" alt="job" width="40px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
+<img align="left" alt="job" width="50px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
-<img align="left" alt="volly" width="40px" src="dog.gif"/> - Cool fact: I LOVE PANDAS and DOGS! <img align="left" alt="volly" width="40px" src="panda.gif"/>
+<img align="left" alt="volly" width="50px" src="dog.gif"/> - Cool fact: I LOVE PANDAS and DOGS! <img align="left" alt="volly" width="50px" src="panda.gif"/>
 
 <br>
 <hr>
