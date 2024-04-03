@@ -6,7 +6,7 @@
 
 <img align="left" alt="degree" width="50px" src="degree-icon.png"/> - I am currently finishing my Bachelor's degree in Web Development.
 
-<img align="left" alt="learn" width="50px" src="work.gif"/> - I am always learning about web design and development.
+<img align="left" alt="learn" width="55px" src="work.gif"/> - I am always learning about web design and development.
 
 <img align="left" alt="intern" width="50px" src="intern-icon.png"/> - After I graduate I will start my internship for a web company this summer.
 
