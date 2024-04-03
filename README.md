@@ -14,6 +14,12 @@
 
 <img align="left" alt="volly" width="35px" src="volly-icon.png"/> - Cool facts: I am a beach volleyball player!
 
+<div align="center" width="50">
+
+<img src="coolSign.gif?raw=true" alt="I LOVE AND I PLAY BEACH VOLLEYBALL" width="70%"/> <br>
+
+</div>
+
 <br />
 <hr>
 
