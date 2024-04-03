@@ -12,7 +12,7 @@
 
 <img align="left" alt="job" width="40px" height="24px" src="job-icon.png"/> - 2024 Goals: Get hired as a full time front-end developer.
 
-<img align="left" alt="volly" width="40px" src="volly-icon.png"/> - Cool fact: I am a beach volleyball player!
+<img align="left" alt="volly" width="40px" src="dog.gif"/> - Cool fact: I LOVE PANDAS and DOGS! <img align="left" alt="volly" width="40px" src="panda.gif"/>
 
 <br>
 <hr>
